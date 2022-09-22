@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(70,36): warning C4100: 'data': unreferenced formal parameter
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(70,23): warning C4100: 'arvore': unreferenced formal parameter
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(102,28): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(351,31): warning C4456: declaration of 'art' hides previous local declaration
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(230,12): message : see declaration of 'art'
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(396,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(396,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(414,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(414,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(279,25): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(280,25): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(291,25): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(295,25): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(299,25): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(224,9): warning C4189: 'numero': local variable is initialized but not referenced
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(207,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(208,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(230,12): warning C4101: 'art': unreferenced local variable
+C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\main.cpp(163): warning C4715: 'returnItem': not all control paths return a value
+  example_win32_directx11.vcxproj -> C:\Users\Martins\Desktop\imgui-master\examples\example_win32_directx11\Debug\example_win32_directx11.exe
