@@ -13,7 +13,7 @@ The project consists of an index on a balanced search tree to facilitate the sea
 
 
 
-## Demonstração
+## Demonstration
 [![Click here to demonstration](https://img.youtube.com/vi/P8RyPgfwXqA/0.jpg)](https://www.youtube.com/watch?v=P8RyPgfwXqA)
 ## Authors
 
